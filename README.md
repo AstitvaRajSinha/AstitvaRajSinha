@@ -2,7 +2,8 @@
 
 ## ⚡ HELLO WORLD! ⚡
 ```
-Name = "Astitva"
+Name = "Astitva Raj Sinha"
+MERN = "done"
 Age = "20"
 Country = "India"
 College = "Chitkara University, Punjab"
