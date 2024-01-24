@@ -3,9 +3,6 @@
 ## ⚡ HELLO WORLD! ⚡
 ```
 Name = "Astitva"
-
-  'MERN STACK':  'Learing'
-
 Age = "20"
 Country = "India"
 College = "Chitkara University, Punjab"
